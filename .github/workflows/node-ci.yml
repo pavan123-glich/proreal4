@@ -2,7 +2,7 @@ name: Node CI with Security Scans
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
 
 jobs:
   node-build:
